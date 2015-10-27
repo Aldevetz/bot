@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Aldevetz bot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldevetz/bot.git"
+  },
+  "author": "Aldevetz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldevetz/bot/issues"
+  },
+  "homepage": "https://github.com/Aldevetz/bot#readme",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.65.0",
+    "xml2js": "^0.4.13"
+  }
+}
